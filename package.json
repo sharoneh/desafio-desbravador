@@ -1,0 +1,12 @@
+{
+  "name": "desafio-desbravador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://127.0.0.1:8080 && http-server"
+  },
+  "author": "Sharon Hasegawa",
+  "license": "ISC",
+  "dependencies": {}
+}
